@@ -215,5 +215,16 @@
       "src/main/**"
     ],
     "logLevel": "quiet"
-  }
+  },
+  "description": "<img src=\".erb/img/erb-banner.svg\" width=\"100%\" />",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pazzazzo/local-play.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pazzazzo/local-play/issues"
+  },
+  "homepage": "https://github.com/pazzazzo/local-play#readme"
 }
